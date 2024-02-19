@@ -1,5 +1,5 @@
 # Introduction
-For more detailed description, please refer to the authors' article (below) and base DNN model.
+For more detailed description, please refer to the authors' article and base DNN model.
 
 If you need to use the model in your study, please cite the author's article (below).
 
