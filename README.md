@@ -17,7 +17,7 @@ https://github.com/pandafhg/MHVR-to-SAF.git
 Flow:
 
 * Click on RunOnnxBatch.py and it will show the path where the pSAF is stored; 
-* Enter the folder path (full path) with all MHVR data;.
+* Enter the folder path (full path) with all MHVR data; note that the folder should not contain other non-essential files.
 * After the process is completed, the saved file path is shown.
 * Please ensure that the MHVR file matches the example shown in the tutorial. Please check that the output is the same as RunOnnx.py.
 
