@@ -1,0 +1,7 @@
+If you also use Neural Network Console-SONY to build model, 
+you can use those txt files in the two folders as initial weights of the model. 
+
+
+Otherwise you can use any visualization tool of onnx model to get the weights of the provided TL model. 
+Here is a URL where you can visualize the onnx model.
+https://netron.app/ 
