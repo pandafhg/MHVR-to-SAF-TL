@@ -7,6 +7,20 @@ Pan et al., Deep Neural Network-based Estimation of Site Amplification Factor fr
 
 https://github.com/pandafhg/MHVR-to-SAF.git
 
+
+****************************************************************************************************
+- The file RunOnnxBatch.py is the batch processing.
+- The folder MHVR contains all MHVR data (support *.csv, *.txt, *.dat) that needs to be processed. 
+  Spacing of data columns supports space, double space, tab and comma.
+- The MHVR_SAF folder contains processed pSAF data and is named in the format [SAF_source_filename]. Some examples can be found in the MHVR_SAF_Sample folder.
+
+Flow:
+
+* Click on RunOnnxBatch.py and it will show the path where the pSAF is stored; 
+* Enter the folder path (full path) with all MHVR data;.
+* After the process is completed, the saved file path is shown.
+* Please ensure that the MHVR file matches the example shown in the tutorial. Please check that the output is the same as RunOnnx.py.
+
 # Contact
 If you have any questions or suggestions, please send an email to the author.
 
