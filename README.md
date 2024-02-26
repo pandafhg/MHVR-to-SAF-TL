@@ -10,6 +10,7 @@ Pan et al., Deep Neural Network-based Estimation of Site Amplification Factor fr
 
 
 ****************************************************************************************************
+# RunOnnxBatch.py
 - The file RunOnnxBatch.py is the batch processing.
 - The folder MHVR contains all MHVR data (support *.csv, *.txt, *.dat) that needs to be processed. 
   Spacing of data columns supports space, double space, tab and comma.
